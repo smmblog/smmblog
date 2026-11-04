@@ -6,7 +6,7 @@ CryptoStrapon in numbers (from [cryptostrapon.com](https://cryptostrapon.com)): 
 
 ## Main projects
 
-- [AI scam detector](https://cryptostrapon.com/scam-detector): paste a message, link, wallet address or screenshot and get the red flags. Ethereum and TRON on-chain checks. Free, no sign up.
+- [AI scam detector](https://cryptostrapon.com/scam-detector): paste a message, link, wallet address or screenshot and get the red flags. On-chain checks on Ethereum, Polygon, Arbitrum, Base and TRON. Free, no sign up.
 - [Crypto scam quiz](https://github.com/cryptostrapon/crypto-scam-quiz): 50 core scenarios in the repo, 106 on the site. Open source (MIT code, CC BY 4.0 content).
 - [Crypto scam glossary](https://github.com/cryptostrapon/crypto-scam-glossary): 11 scam vectors in depth in the repo; the full 301 term glossary is on the site.
 - [npm-install-audit](https://github.com/cryptostrapon/npm-install-audit): read only script that shows install hooks and risky code before you run npm install.
